@@ -39,9 +39,11 @@ In the "BEFORE" setup, all resources were connected to the internet and easily v
 In the "AFTER" setup, network security was improved by blocking all traffic except for my admin workstation. Other resources were also better protected using stronger firewalls and private Endpoint.
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/1qvswSX.png)<br>
-![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![image](https://github.com/user-attachments/assets/86ca3519-6c4c-4d0e-a8e8-93d617883a76)
+![image](https://github.com/user-attachments/assets/2858cd2c-1955-4862-b2e9-2581814909c4)
+![image](https://github.com/user-attachments/assets/6748da3d-7ef9-4ced-8e75-f701a2610e68)
+
+
 
 ## Metrics Before Hardening / Security Controls
 
