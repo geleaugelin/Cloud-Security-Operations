@@ -2,6 +2,13 @@
 ![image](https://github.com/user-attachments/assets/d4c3abc2-e269-45da-a1c8-b410180cd6b1)
 
 
+
+
+![Cloud Honeynet + SOC porrtfolio leveld diagram](https://github.com/user-attachments/assets/6135ddc1-3d68-4025-b6db-b3f29b49cf24)
+
+
+
+
 ## Introduction
 
 In this project, I created a small, controlled computer network in Microsoft's Azure cloud service. This network, called a "honeynet," helps us understand how attackers might try to break into our systems.
