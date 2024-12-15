@@ -20,7 +20,8 @@ The metrics we will show are:
 
 
 ## Architecture After Hardening / Security Controls
-![Slide 3 for Get hUb Portfolio  After Hardenng](https://github.com/user-attachments/assets/7a0fde40-9e6a-4d0c-8ea8-68f7102ef5fd)
+![Slide 3 for Get hUb Portfolio  After Hardenng](https://github.com/user-attachments/assets/6dc962b5-9aed-4c1f-843d-cc3219a89ff5)
+
 
 
 The architecture of the mini honeynet in Azure consists of the following components:
